@@ -12,10 +12,11 @@ class CategoryController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
-    public function hello()
+    public function index()
     {
-        echo "Hello";
+        //
     }
+
     /**
      * Show the form for creating a new resource.
      *
